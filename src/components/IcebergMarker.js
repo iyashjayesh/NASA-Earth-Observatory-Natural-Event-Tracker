@@ -1,5 +1,5 @@
 // npm install --save-dev @iconify/react @iconify-icons/openmoji
-import { Icon, InlineIcon } from '@iconify/react';
+import { Icon } from '@iconify/react';
 import icebergIcon from '@iconify-icons/openmoji/iceberg';
 
 

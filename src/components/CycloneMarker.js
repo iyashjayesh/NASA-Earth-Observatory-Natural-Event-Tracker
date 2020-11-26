@@ -1,5 +1,5 @@
 // npm install --save-dev @iconify/react @iconify-icons/noto
-import { Icon, InlineIcon } from '@iconify/react';
+import { Icon } from '@iconify/react';
 import cycloneIcon from '@iconify-icons/noto/cyclone';
 
 const CycloneMarker = ({ lat, lng, onClick }) => {

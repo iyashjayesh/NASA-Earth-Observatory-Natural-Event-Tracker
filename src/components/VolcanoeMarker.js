@@ -1,5 +1,5 @@
 // npm install --save-dev @iconify/react @iconify-icons/noto
-import { Icon, InlineIcon } from '@iconify/react';
+import { Icon } from '@iconify/react';
 import volcanoIcon from '@iconify-icons/noto/volcano';
 
 
