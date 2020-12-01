@@ -6,7 +6,7 @@ body {
 
 .header {
   padding: 10px;
-  background-color: firebrick;
+  background-color: rgb(233, 15, 15);
   color: #fff;
   position: fixed;
   top: 0;
@@ -20,6 +20,10 @@ body {
   padding: 0;
   margin: 0;
   text-align: center;
+}
+
+.header a {
+  color: rgb(0, 0, 0);
 }
 
 .map {
