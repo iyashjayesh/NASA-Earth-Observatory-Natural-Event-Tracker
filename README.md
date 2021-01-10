@@ -5,6 +5,8 @@
 # Description:
 - This webapp fetches the data from NASA EONET and display in Map. Data present in the app: WildFire, Tropical Cyclone & Iceberg
 
+![test](https://user-images.githubusercontent.com/53042582/104127833-5fa25b00-538a-11eb-80f1-8709507f9b7f.png)
+
 # 🚀 Technical Stack:
 
 ## Frontend:
