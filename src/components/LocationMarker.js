@@ -1,5 +1,5 @@
 // npm install --save-dev @iconify/react @iconify-icons/noto
-import { Icon, InlineIcon } from '@iconify/react';
+import { Icon } from '@iconify/react';
 import fireIcon from '@iconify-icons/noto/fire';
 
 const LocationMarker = ({ lat, lng, onClick }) => {
